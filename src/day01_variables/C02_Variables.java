@@ -13,6 +13,6 @@ public class C02_Variables {
         System.out.println(okulIsmi); // Yildiz Koleji
         okulIsmi="Star Koleji";
         System.out.println(okulIsmi); // Star Koleji
-
+        System.out.println("9 nisan");
     }
 }
